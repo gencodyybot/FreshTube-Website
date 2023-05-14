@@ -5,10 +5,10 @@ FreshTube is an open-source alternative to YouTube that allows users to watch an
 
 Features
 
-Private and ad-free video streaming
-Download videos as MP4 files
-No data sent to YouTube or Google
-Getting Started
+  Private and ad-free video streaming
+  Download videos as MP4 files
+  No data sent to YouTube or Google
+  Getting Started
 
 To get started with FreshTube, you'll need to have Node.js installed on your computer. You can then clone this repository and install the necessary dependencies using npm:
 
