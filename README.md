@@ -31,7 +31,7 @@ This will start a development server at http://localhost:3000, where you can acc
 
 Contributing:
 
-FreshTube is an open-source project and contributions are always welcome! If you'd like to contribute to the project, please see our contributing guidelines for more information.
+FreshTube is an open-source project and contributions are always welcome! If you'd like to contribute to the project, please see our contributing guidelines for more information. Join our Discord: https://discord.gg/fgMVCxdUFt
 
 
 License:
