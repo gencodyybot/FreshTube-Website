@@ -12,15 +12,13 @@ Getting Started
 
 To get started with FreshTube, you'll need to have Node.js installed on your computer. You can then clone this repository and install the necessary dependencies using npm:
 
-bash
-Copy code
-git clone https://github.com/yourusername/freshtube.git
+
+git clone https://github.com/gencodyybot/freshtube-website.git
 cd freshtube
 npm install
 After installing the dependencies, you can start the development server using the following command:
 
-sql
-Copy code
+
 npm start
 This will start a development server at http://localhost:3000, where you can access the FreshTube website.
 
