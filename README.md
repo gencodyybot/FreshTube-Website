@@ -1,7 +1,8 @@
 # FreshTube-Website
-Open-source alternative of YouTube on a website without tracking.
 
 FreshTube
+
+Open-source alternative of YouTube on a website without tracking.
 
 FreshTube is an open-source alternative to YouTube that allows users to watch and download videos without any ads and without sending any data to YouTube. This project is still under development and is not affiliated with YouTube or Google.
 
