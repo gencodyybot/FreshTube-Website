@@ -3,14 +3,14 @@ Open-source alternative of YouTube on a website without tracking.
 
 FreshTube is an open-source alternative to YouTube that allows users to watch and download videos without any ads and without sending any data to YouTube. This project is still under development and is not affiliated with YouTube or Google.
 
-Features:
+# Features:
 
 * Private and ad-free video streaming
 * Download videos as MP4 files
 * No data sent to YouTube or Google
 
 
-Getting Started:
+# Getting Started:
 
 To get started with FreshTube, you'll need to have Node.js installed on your computer. You can then clone this repository and install the necessary dependencies using npm:
 
@@ -29,17 +29,17 @@ npm start
 This will start a development server at http://localhost:3000, where you can access the FreshTube website.
 
 
-Contributing:
+# Contributing:
 
 FreshTube is an open-source project and contributions are always welcome! If you'd like to contribute to the project, please see our contributing guidelines for more information. Join our Discord: https://discord.gg/fgMVCxdUFt
 
 
-License:
+# License:
 
 FreshTube is released under the MIT License.
 
 
-Disclaimer:
+# Disclaimer:
 
 This project is not affiliated with YouTube or Google in any way. Use at your own risk.
 
